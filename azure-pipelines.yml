@@ -17,7 +17,7 @@ trigger:
 #   maxParallel: 3
 
 pool:
-  vmImage: 'ubantu-latest'
+  vmImage: 'ubuntu-latest'
 
 variables:
   buildConfiguration: 'Release'
